@@ -7,7 +7,7 @@ Documento público no Notion contendo meu progresso no programa Explorer.
 ## Descrição
 
 Após aprender os principais comandos de git e manipulação no github, no Stage 07, 
-o próximo passo era publicar meus principais projetos realizados no programa Explorer em um documento público no Notion.
+o próximo passo era publicar meus principais projetos realizados no Programa Explorer em um documento público no Notion.
 
 ## Aprendizados da aula de Git & Github
 
@@ -73,7 +73,7 @@ Public document on Notion containing my progress in the Explorer program.
 ## Description
 
 After learning the main git commands and manipulation on github, in Stage 07,
-the next step was to publish my main projects carried out in the Explorer program in a public document on Notion.
+the next step was to publish my main projects carried out in the Explorer Program in a public document on Notion.
 
 ## Lessons from the Git & Github class
 
