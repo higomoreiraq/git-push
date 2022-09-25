@@ -61,7 +61,7 @@ Para conferir o documento, acesse:
 ![image](https://user-images.githubusercontent.com/107502907/192155759-90855fef-114f-4c91-b2df-99f697a5583c.png)
 ![image](https://user-images.githubusercontent.com/107502907/192155707-beaff29c-a7fa-4a2e-bc1b-ed16753bd6ae.png)
 ![image](https://user-images.githubusercontent.com/107502907/192155689-b6bb5ab2-bc32-44b1-9c2d-fa881b6cb1fd.png)
-![image](https://user-images.githubusercontent.com/107502907/192155661-c7f2c6c5-1694-4d48-b9ae-ddc14379e087.png)
+![image](https://user-images.githubusercontent.com/107502907/192158012-44a80c50-7deb-4fd2-a298-8accee368b14.png)
 
 #
 # 🌎 English
