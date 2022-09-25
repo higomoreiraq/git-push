@@ -1,4 +1,4 @@
-## Aula de Git & Github 💻
+## Git Push ▶️
 
 Documento público no Notion contendo meu progresso no programa Explorer.
 
@@ -9,7 +9,7 @@ Documento público no Notion contendo meu progresso no programa Explorer.
 Após aprender os principais comandos de git e manipulação no github, no Stage 07, 
 o próximo passo era publicar meus principais projetos realizados no programa Explorer em um documento público no Notion.
 
-## Aprendizados
+## Aprendizados da aula de Git & Github
 
 ### Comandos de git:
 
@@ -66,7 +66,7 @@ Para conferir o documento, acesse:
 #
 # 🌎 English
 
-## Git & Github Class 💻
+## Git Push ▶️
 
 Public document on Notion containing my progress in the Explorer program.
 
@@ -75,7 +75,7 @@ Public document on Notion containing my progress in the Explorer program.
 After learning the main git commands and manipulation on github, in Stage 07,
 the next step was to publish my main projects carried out in the Explorer program in a public document on Notion.
 
-## Learnings
+## Lessons from the Git & Github class
 
 ### Git commands:
 
